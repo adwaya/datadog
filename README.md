@@ -1,6 +1,6 @@
-# ![DataDog](https://imgix.datadoghq.com/img/about/presskit/logo-h/logo_horizontal_purple.png)
+![DataDog](https://imgix.datadoghq.com/img/about/presskit/logo-h/logo_horizontal_purple.png)
 
-All about DataDog
+# All about DataDog
 
 
 
